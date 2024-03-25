@@ -1,0 +1,19 @@
+﻿In this part we learnt about
+	-- Datatype conversions
+	--we learnt about the types of datatype conversions
+	--Implicit Conversion(those conversions that compiler do on his own)
+	--Compiler do the type implicit conversion when there is no chance of info loss\
+	and the new variable datatype is bigger than the original var..
+		int marksInInt = 78;
+		float marks = marksInInt;  
+	--Explicit type conversions are done by programmer on their need
+	-- we can do this by using syntex like 
+		float marks = 56.78;
+		int marksInInt = marks(gives error)
+		so we do this by 
+		float marks = 56.78;
+		int marksInInt = (int)marks
+	-- But sometime we might have some string values and we are trying to convert themm 
+	into float or int so they will give error and program terminates 
+	-- TO deal with this issue we use 
+	int.Parse() and int.TryParse() methods

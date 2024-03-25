@@ -1,0 +1,7 @@
+﻿In this part we learnt 
+	-- what are strings and how to declare them in double quotes
+	-- How to use escape sequence to print double quotes on console screen
+	-- Escape sequence is used to print special symbols on the screen 
+	-- We use escape like "\"Majid Khadim\"";
+	-- we also learnt about some main escape sequence like \n  \t etc
+	-- we also learnt about verbatim literal(@)

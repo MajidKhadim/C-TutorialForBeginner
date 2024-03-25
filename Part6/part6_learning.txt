@@ -1,0 +1,8 @@
+﻿In this part we learnt about:
+	--How we can store null to a integral type variable
+	-- we learnt about how we can use (?) to allow a variable to store null value
+	-- It is alot useful when we are dealing with such options where user does not 
+	choose or enter any value so we can store null
+	-- It decreases our efforts of making bridge between database and program
+	-- We also learnt about the Null Coalescing(??) Operator which converts null value 
+	into 0

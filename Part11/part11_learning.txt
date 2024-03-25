@@ -1,0 +1,4 @@
+﻿In this part we learnt about:
+	--how we can use compact version code instead of writing alot of if else
+	we can use switch statement
+	--importance of break keyword in switch

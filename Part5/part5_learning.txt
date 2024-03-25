@@ -1,0 +1,8 @@
+﻿In this part we learnt about:
+	--Operators(arithmetic,assignment,comparison,conditional,nullable)
+	--In Arithemtic operators we learnt about (+,-,*,%) which performs basic operations
+	-- In assignment opertor(=) we learnt about assigning value to a variable
+	-- comparison(==,<=,>= etc) we learnt about checking values with some other values
+	-- conditional (&& , ||) we learnt about operators which act as AND and OR gates
+	-- at the end we learnt about the ternary (?) operator which allows us to 
+	write short syntex for if else condition

@@ -1,0 +1,7 @@
+﻿In this Part we learnt about : 
+	-- how to write if else statements and how they work
+	-- we learnt about conditional operators(&& and ||) and we also 
+	learnt the difference between(&& and &) and (|| and |);
+	-- we learnt that when we write (&&) it checks first and if it is false does
+	not checks the next ones
+	-- But in the case of (|) it checks all the conditions

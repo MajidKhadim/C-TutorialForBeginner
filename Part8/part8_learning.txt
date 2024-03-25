@@ -1,0 +1,12 @@
+﻿In this part we learnt about:
+	-- how to create arrays and when to use them
+	-- How to assign values and store data in arrays 
+	-- we also learnt about the indexes and how to access data from arrays
+	-- we learnt about the advantages and disadvantages of arrays
+	
+	-ADVANTAGES:
+		-- They are strongly typed means it can not contain data of other datatypes and only consumes the memory that user wants
+	
+	-DISADVANTAGES:
+		-- If we initiate them with a size then it is fixed it cant grow;
+		-- They rely on indexes to store and retrieve data

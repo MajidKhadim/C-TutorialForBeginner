@@ -1,0 +1,9 @@
+﻿In this part we learnt about :
+	-- what are comments
+	--why we use comments
+	-- how to write comments
+	-- we also learnt difference between single and multiline comment
+	-- how to write single and multiline comments 
+	-- we also learnt about the XML documentation comments
+	-- single line and multiline comments are simple but XML documentation comments
+	are something new they are used to write documentation for classes;

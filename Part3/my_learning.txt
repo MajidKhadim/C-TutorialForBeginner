@@ -1,0 +1,19 @@
+﻿--In this we learnt about boolean datatype(only true and false);
+--Then we learnt about integral datatypes
+	1.sbyte(can contain +ve and -ve values -128 to 127);
+	2.byte(0 to 255);
+	3.char(any single characters);
+	4.short 
+	5.ushort
+	6.int
+	7.uint
+	8.long
+	9.ulong
+	and we also learnt about when to use which type of datatype.
+	how we can find the range of integral datatypes.
+--Then we learnt about the floating point datatypes 
+	1.Float(less precision)
+	2.Double(more precision)
+--Decimal Datatype
+	it have the almost 28 to 29 digit precision after the decimal point
+	

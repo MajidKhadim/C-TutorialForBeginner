@@ -1,0 +1,5 @@
+﻿In Part2, we learnt about writing to console screen and getting user inputs from console screen ..
+We also learnt about three syntex of writing messeges and variables together.
+1. While using concatenation with + symbol like ("Majid Khadim " + var);
+2.With using placeHolder syntex like ("Majid Khadim {0}",var);
+3.With $ sign which was something new that was not in the video but I learnt it on my own as it is latest syntex of writing syntex
