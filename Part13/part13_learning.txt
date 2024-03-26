@@ -1,0 +1,4 @@
+﻿In this part we learnt about : 
+	-- while loops 
+	-- how the while loop runs infinite 
+	-- importance of condition and increment/decrement of counter/controller

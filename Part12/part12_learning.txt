@@ -1,0 +1,4 @@
+﻿In this part we learnt about:
+	-- how we can use switch to handle different type of problems like pricing
+	-- how to use jump statements in C#
+	-- we learnt about goto statement 

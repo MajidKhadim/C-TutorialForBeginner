@@ -1,0 +1,9 @@
+﻿In this part we learnt about : 
+	-- what is a class?
+		class consists of data and behaviour.It basically act as a template for
+		creating real world objects like a table having legs,height,width etc
+	-- Its data is known as fields while the behaviour is represented by methods
+	-- Then we learnt about Constructor which is called as any object of a class
+	is created 
+	-- Learnt about methods , destructor(a bit)
+	-- learnt about the parametrized and simple constructor

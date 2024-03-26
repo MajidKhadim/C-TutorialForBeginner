@@ -1,0 +1,5 @@
+﻿In this part we learnt about:
+	-- do while loop
+	-- difference between while and do while loop
+	-- basically while loop runs after the condition check first time while
+	do while loop runs first time and then checks the condtion and then continue

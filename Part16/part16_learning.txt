@@ -1,0 +1,4 @@
+﻿In this part we learnt about :
+	-- what are methods
+	-- structure of method
+	-- difference between static and instance methods

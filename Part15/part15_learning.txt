@@ -1,0 +1,10 @@
+﻿In this part we learnt about:
+	-- Length property of arrays
+	-- Foreach loop where we learnt that we don't need to know the indexes
+	or size of the array for iterating over its elements
+	-- we dont have to worry about the index out of range exception
+	-- we just write its syntex and if the elements keep on increasing it does not
+	effect the loop
+	-- we also came to know that we dont need any counter variable for and ++/--
+	for moving to next index
+	-- then we learnt about  continue statement in loops

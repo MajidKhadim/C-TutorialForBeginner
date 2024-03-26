@@ -1,0 +1,6 @@
+﻿In this part we learnt about:
+	-- we came to know about 4 types of parameters
+		-- 1..Parameters passed as value(simple parameters)
+		-- 2..Parameters passed as reference(using ref keyword)
+		-- 3..output parameters
+		-- 4..Parameter arrays(can take variable number of arguments)

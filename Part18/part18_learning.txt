@@ -1,0 +1,5 @@
+﻿In this part we learnt about:
+	-- Namespaces(how to organize code using namespaces) 
+	-- how the classes defined in different namespaces are different
+	-- provide assistence in avoiding clashes
+	-- nesting namespaces
