@@ -1,0 +1,4 @@
+﻿In this part we learnt about:
+	-- how to hide the parent class method using same method name and new keyword
+	-- we learnt about how we can do the object type conversion
+	-- how we can store a child class object in a parent class object

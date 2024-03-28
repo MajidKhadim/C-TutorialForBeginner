@@ -1,0 +1,12 @@
+﻿In this part we learnt about:
+	-- Inheritance
+	-- when we have same fields or methods in 2 or more classes we can use 
+	inheritance such that the same fields and methods come in parent class and
+	we can write specific code for child classes
+	-- we learnt about pillers of object oriented programming
+		-- inheritance
+		-- encapsulation
+		-- abstraction
+		-- ploymorphism
+	-- parent class constructor is called before child class constructor
+	-- how we can controll which parent constructor is called when we are creating a child class object
