@@ -1,0 +1,11 @@
+﻿In this part we learnt about:
+	-- Polymorphism
+	-- how we can store different child type objects in a parent class object;
+	-- we can store the child class objects in parent class object
+	-- using virtul keyword in parent class for polymorphism
+	-- using override keyword for overriding the methods
+	-- ploymorphism allow us to invoke derived class methods through parent class
+	reference variable during runtime
+	-- if we dont overide the virtual method in child class then the parent class
+	virtual method is used
+	--
