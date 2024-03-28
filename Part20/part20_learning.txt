@@ -1,0 +1,13 @@
+﻿In this part we learnt about:
+	-- static methods
+	-- instance methods and fields
+	-- what is difference between static and instance methods and fields
+	-- if we create a static field it will be same for all instances of this class
+	-- static fields can't be accessed in static methods;
+	-- for using static field in a non static method you can directly use the
+	name of class and then access the field
+	-- only static methods and fields can be accessed using class name
+	-- while the instance methods can only be accessed using instances
+	-- writing access-modifiers on static constructors are not allowed
+	-- static constructor are called as the object is created;
+	-- we cant assign parameters to static constructor
