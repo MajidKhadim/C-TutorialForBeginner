@@ -1,0 +1,8 @@
+﻿In this part we learnt about:
+	-- what are properties in C# 
+	-- how we can use them
+	-- what are their advantages
+
+	-- properties are defined in C# to get over control on properties that what are being assigned to the variables
+	-- these are just like fields in the classes but in hidden you are controlling them as you want
+	-- easy to use

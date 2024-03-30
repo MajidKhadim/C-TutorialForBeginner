@@ -1,0 +1,5 @@
+﻿In this part we learnt about :
+	-- what are structs
+	-- structs are just like classes
+	-- they can contain field methods and almost everything like classes
+	-- they are alot similar to classes

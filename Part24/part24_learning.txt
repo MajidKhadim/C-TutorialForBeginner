@@ -1,0 +1,5 @@
+﻿In this part we learnt about:
+	-- method hiding
+	-- method overriding
+	-- difference between method overridiing and method hiding
+	-- method overriding is used when we want to create a polyporhic behaviour(we want to access the child class properties using base class ref at runtime) while method hiding is rarely used because of creating confusion.It just works as simple whose class ref will be used those methods will be called;

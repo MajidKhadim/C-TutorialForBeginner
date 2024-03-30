@@ -1,0 +1,5 @@
+﻿In this part we learnt about:
+	-- why we use properties 
+	-- how we can control which value can be assigned to the variable
+	-- how we can neglect values we dont want to be assigned
+	-- we have  more control over our properties
