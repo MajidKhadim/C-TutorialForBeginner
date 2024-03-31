@@ -1,0 +1,12 @@
+﻿In this part we learnt about:
+	-- what are the diffrences between structs and classes
+	
+	-- classes are reference type and structs are of value type
+	-- value typpe holds the value in memory while reference type holds address of the object in memory
+	-- classes objects references are stored in stack and objects are stored in heap
+	while the struct is stored in stack
+	-- when we create copy of struct object then a new variable is created for copy 
+	while when we create copy of a class object no second object is created only reference is created
+	-- when we make changes through one object reference then the change is reflected to both object references 
+	-- we also learnt about sealed keyword(when we want that no class should be inherited from our class then we use sealed keyword in class declaration)
+	-- structs are sealed by default 
