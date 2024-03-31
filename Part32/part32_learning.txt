@@ -1,0 +1,6 @@
+﻿In this part we learnt about:
+	-- What are abstract classes
+	-- how to implement abstract classes
+	-- Abstract class can contain fields properties methods etc
+	-- abstract classes are incomplete therefore we cant create object of them
+	-- if a class is inherited from abstract class then it have to implement the abstract class abstract methods;

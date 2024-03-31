@@ -1,0 +1,10 @@
+﻿In this part we learnt about:
+	-- Interfaces concept 
+	-- what are interfaces
+	-- interfaces implementation
+	-- Interfaces can contain methods which a derived/inherited class have to 
+	implement
+	-- If a child class do not implement the method then it will throw error
+	-- the naming convention used for interfaces is IData(starting with capital I)
+	-- Interfaces can't contain fields
+	-- Interfaces can contain properties

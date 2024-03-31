@@ -1,0 +1,5 @@
+﻿In this part we learnt about:
+	-- what will happen if we create two interfaces and both have the same method name and a class is inherited from both of these interfaces and implementing the method only one time.Then there will be ambiguity and only method will be called.
+	-- The solution to this problem is External Interfaces implementation
+	-- we will use InterfaceName.method trick
+	-- then while calling we will use typeconversion and then we can call method based on our requirement which interface method we want to call
