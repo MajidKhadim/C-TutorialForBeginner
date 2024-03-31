@@ -1,0 +1,9 @@
+﻿In this part we learnt about:
+	-- What are differences between interfaces and abstract classes
+	-- how they are different from each other
+
+	-- Abstract classes can have implementation for some of its members but interfaces cant have the implementation
+	-- Interfaces cant have fields where abstract classes can
+	-- Interfaces can only be inherited from an interface but abstrac class can be inherited from abtract classes and interfaces both
+	-- A class cant be inherited from multiple classes but can be inherited from multiple interfaces at same time
+	-- abstract class members can have access modifiers but interface members cant
