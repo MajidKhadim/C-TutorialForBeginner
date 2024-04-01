@@ -1,0 +1,5 @@
+﻿In this part we learnt about:
+	-- what are delegates
+	-- Delegates are type safe pointers of functions they are used to store the pointer to function and then we can call them using delegate pointer
+	-- we learnt about how to implement them 
+	-- public delegate void Print();

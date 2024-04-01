@@ -1,0 +1,3 @@
+﻿In this part we learnt about:
+	-- How we can use interfaces to implement multiple heritance
+	-- how we can solve the problem of multiple inheritance using interface

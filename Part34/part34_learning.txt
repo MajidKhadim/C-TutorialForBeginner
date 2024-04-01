@@ -1,0 +1,6 @@
+﻿In this part we learnt about:
+	-- problem about multiple Inheritance
+	-- Why we can't implement multiple inheritance using classes
+	-- Diamond Problem
+	-- if class B and class C are inherited from class A and class D is inherited from both B and C. Then if a method in D calls a method defined in A and B and C have overriden the method differently then which class method will be called
+	-- This is known as Diamond problem
