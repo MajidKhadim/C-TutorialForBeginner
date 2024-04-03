@@ -1,0 +1,6 @@
+﻿In this part we learnt about:
+	-- We learnt about MultiCast Delegate
+	-- we learnt that multicast delegate is also a type-safe function pointer but it points to more than 1 function
+	-- when we use it all the pointed functions will be called
+	-- Functions will be called in same order
+	-- if the return type is void then its ok but if it has return type int or something else it will last with the return value of last function pointer stored

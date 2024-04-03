@@ -1,0 +1,5 @@
+﻿In this part we learnt about:
+	-- simple logic where we can use the delegate 
+	-- we simply used the hard coded logic and in next demo we will use the delegate to solve this issue
+	-- when we hard code the logic in classes It will not be reuseable so we use delegate in this case
+	-- we want to allow companies to change the logic to promote their employees

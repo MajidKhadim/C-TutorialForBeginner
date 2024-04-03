@@ -1,0 +1,5 @@
+﻿In this part we learnt about:
+	-- we created a delegate to apply the logic 
+	-- we unbounded the logic from our class/framework so that when the user wants he can change the logic based on need
+	-- we use delegates mostly when we want to pass functions as parameters and it allow us to reuse our work
+	-- Then we use the lambda expression to shorten the work but still it creates the delegate at runTime and make our work less

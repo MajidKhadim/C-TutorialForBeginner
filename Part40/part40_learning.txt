@@ -1,0 +1,10 @@
+﻿In this part we learnt about:
+	-- we learnt about how to read content from a file
+	-- if we dont use exception handling it will show the exception to user and you will lose users
+	-- if also creates a unwanted user experience
+	-- if it happens these lines will be skipped and the resource will not be released
+	-- if also show the sensitive data to hackers and your application can be hacked
+	-- So to address these issues we will use try catch finally block;
+	-- all exceptions are inherited from exception class
+	-- the specific exception should be written above and then the general ones
+	-- finally statements will be executed every time even exception is created or not
