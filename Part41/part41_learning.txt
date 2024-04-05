@@ -1,0 +1,4 @@
+﻿In this part we learnt about:
+	-- how to deal with inner exceptions
+	-- there are two types of exceptions one is current exception and second one is inner exception current exception is caused because of inner exception
+	--

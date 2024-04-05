@@ -1,0 +1,3 @@
+﻿In this part we learnt about:
+	-- while using numbers and if else we always have to check the documentation for knowing which one to use there;
+	-- Enums are strong typed constants

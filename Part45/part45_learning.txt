@@ -1,0 +1,7 @@
+﻿In this part we learnt about:
+	-- why we use Enums
+	-- when we are using if else to return the gender string
+	-- while using if else it is difficult to remember which number corresponds to which gender or strings
+	-- program is less readable
+	-- program is less maintainAble
+	-- Enums are used to convert numbers to genders

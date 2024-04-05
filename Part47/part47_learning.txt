@@ -1,0 +1,10 @@
+﻿In this part we learnt about:
+	-- enums are enumerations
+	-- enums are strongly typed constants
+	-- we can use GetValues and GetNames methods to use names and values 
+	-- we can explicitly assign datatype to enum values
+	-- we can also explicitly assign enum constant to a number
+	-- we can convert int to Enum type and Enum type to int using explicit conversion
+	-- default type of enum is int
+	-- Enums are value types
+	-- Enum keyword is used to create enumerations where as Enum class contains static GetValues and GetNames methods which can be used to list ENum underlying type values and Names
