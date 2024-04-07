@@ -1,0 +1,6 @@
+﻿In this part we learnt about:
+	-- we learnt about late binding
+	-- we use late binding when we dont know which type of object we need at runtime
+	-- it can cause runtime errors
+	-- early binding is much better for performance and must be prefered over late binding
+	-- only use late binding when we have to create instance of types that are not present at runtime

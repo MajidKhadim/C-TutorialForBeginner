@@ -1,0 +1,10 @@
+﻿In this part we learnt about:
+	-- when creating any method when we give them arguments they should of the same type we cant give them other type arguments but if we want we can convert the parameters type to object which is the parent class for all the types
+	-- But when we do it we have few issues:
+		-- types like int which are structs(values types) have to be converted into reference types(objects,classes) which raises the problem of boxing
+		-- performance decreases
+		-- we can pass different types of parameters because of which we lose the strongly typed nature of methods
+	-- To solve these issues we will use generics
+	-- generics helps you to code type independent
+	-- extensively used with collections
+	-- allow us to design classes and methods decoupled from the data types

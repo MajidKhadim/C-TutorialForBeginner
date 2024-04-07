@@ -1,0 +1,4 @@
+﻿In this part we learnt about:
+	-- two types of access modifiers for types(classes,interfaces,delegates etc)
+	-- we can only use public and internal with types
+	-- default for types will be internal

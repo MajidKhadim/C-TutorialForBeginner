@@ -1,0 +1,6 @@
+﻿In this part we learnt about:
+	-- Reflection concept
+	-- we learnt about the Type keyword and class
+	-- althrough we did not know about reflection but we will know about it soon
+	-- we can use reflection to invoke methods at runtime
+	-- for checking the behaviour of classes and types

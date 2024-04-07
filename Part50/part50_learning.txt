@@ -1,0 +1,6 @@
+﻿In this part we learnt about:
+	-- two types of access modifiers
+	-- internal
+	-- protected internal
+	--when we use internal it means that we can only access this member in the same assembly/project we cant access this when we are creating an objecct in different project 
+	-- when we use protected internal it means that it is combinning the effect of protected and internal it means that we can use this in same assembly and also in those classes in which the class is inherited althrough they are in different assembly

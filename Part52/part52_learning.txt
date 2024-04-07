@@ -1,0 +1,8 @@
+﻿In this part we learnt about:
+	-- Attributes allow you to add declarative information to your programs.This information can than be queried at runtime using reflection
+	-- There are several Pre-defined attributes provided by .NET.It is also possible to create your own custom attributes
+	-- few of them are :
+		-- obsolete(generates compiler warnings)
+		-- web methods 
+		-- serializable 
+		-- we can also customizable using parameters

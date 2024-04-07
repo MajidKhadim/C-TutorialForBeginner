@@ -1,0 +1,14 @@
+﻿In this part we learnt about:
+	-- what are access modifiers 
+	-- where we can access them
+	-- There are 5 access modifiers
+		1.Public
+		2.private
+		3.protected
+		4.internal
+		5.protected internal
+	-- we can use only three with type members
+
+	-- when we use public access modifier then this member can be accessed everywhere
+	-- when we use private access modifiers then this member can be accesssed only in this type
+	-- when i use protected access modifiers then this member can be accessed in this type and the types derived from this type

@@ -1,0 +1,6 @@
+﻿In this part we learnt about:
+	-- why we should override the toString() method
+	-- at start when we use the class.tostring() it will give the fullName of class
+	-- we can return the class data using the toString method
+	-- we can also do alot of useful work
+	-- we can show the complex data of our class
