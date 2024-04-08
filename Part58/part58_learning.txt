@@ -1,0 +1,6 @@
+﻿In this part we learnt about:
+	-- why we should override the equals method
+	-- every type has equals method which it overrides from the parent object class so we can override it according to requirements
+	-- we mostly use override equal when we are trying to compare objects on the basis of their properties values
+	-- when we use the == operator it compares the references while if we dont override the equals method it do the same
+	-- so we can override it on our requirement basis

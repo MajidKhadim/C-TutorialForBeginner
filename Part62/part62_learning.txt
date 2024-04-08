@@ -1,0 +1,11 @@
+﻿In this part we learnt about:
+	-- rules to follow for creating partial classes
+	-- all the part of classes splited must have the partial keyword
+	-- all the parts must have the same access modifiers
+	-- if any of the part if declared abstract then whole class is considered partial
+	-- if any part if declared sealed then whole class is sealed
+	-- if any part inherit a class then whole class inherit from the same class
+	-- C# does not support multiple inheritance so different part must not have different base classes
+	-- you can inherit multiple interfaces in different parts of the class
+	-- if a member is declared  in a part it will be avilable for all the parts
+	

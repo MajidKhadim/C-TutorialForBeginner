@@ -1,0 +1,5 @@
+﻿In this part we learnt about:
+	-- overloading indexers
+	-- we learnt about how we can count the objects based on some specific property
+	-- how we can overload the indexers based on the parameters
+	-- how we can set and get the properties of a class using indexers

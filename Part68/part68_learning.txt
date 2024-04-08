@@ -1,0 +1,4 @@
+﻿In this part we learnt about:
+	-- how we can make parameters optional using method overloading
+	--we created two methods one which have 2 parameters and other having 2 int type values and the third was an array of integers 
+	-- when i pass 2 params it will use first method otherwise it will use second one

@@ -1,0 +1,12 @@
+﻿In this part we learnt about:
+	-- partial methods
+	-- rules to create partial methods
+	-- partial method contains two parts 
+		1.defination(only signature)
+		2.implementation
+	-- if we dont implement the method it will be ignored
+	-- partial method are private by default
+	-- we cant provide declaration and implementation at one time
+	-- the return type of partial method should be void
+	-- partial method can only be declared in partial classes or structs
+	-- partial method can be implemented once

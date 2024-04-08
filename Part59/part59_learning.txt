@@ -1,0 +1,6 @@
+﻿In this part we learnt about:
+	-- what is Convert.toString method
+	-- we also see the difference between Convert.toString method and the toString method
+
+	-- Convert.toString handles the null while ToString method does'nt and theows a Null reference exception
+	-- Depending on the requirements we can choose what to use

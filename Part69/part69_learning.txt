@@ -1,0 +1,6 @@
+﻿In this part we learnt about:
+	-- soecify parameter defaults(making methods optional)
+	-- we made parameters optional by giving parameters default values
+	-- we also learnt about named parameters 
+	-- when we invoke this method using 2 params then first is passed to 1st and 2nd to 2nd params by default 
+	-- so we can use the name of parameter to specify which value of param it is 

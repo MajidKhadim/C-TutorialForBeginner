@@ -1,0 +1,6 @@
+﻿In this part we learnt about:
+	-- what are indexers and where to use them
+	-- indexers are just like indexes 
+	-- if you vire the metadata of httpSessionState class, you can see that there is an integral and string indexer defined.We use "this" ketword to create indexer in C#
+	-- it can string or integral 
+	-- indexers allow instances of class to just act like arrays

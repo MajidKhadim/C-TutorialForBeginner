@@ -1,0 +1,7 @@
+﻿In this part we learnt about :
+	-- partial clasaes from venkat from pragimTechnologies
+	-- we use partial classes when we split class in multiple files
+	-- we can have same class in two or more files which we can do for readability issues
+	-- partial classes are used to separate system generated code from developers code
+	-- multiple developers can work on same class for simultaneous code
+	-- when it compiled it is combined in a single file

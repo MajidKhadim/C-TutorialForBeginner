@@ -1,0 +1,6 @@
+﻿In this part we learnt about:
+	-- difference between System.string and System.Text.stringBuilder
+	-- when we use System.string and make changes in the string then every time we make changes a new object is created in the memory and the value is copied to the new string while the previous object resides in the memory and resides there until the garbage collector runs and free up the memory
+	-- where stringBuilder class objects are mutable when we make changes in this object no new object is created instead it make changes in the same object
+	-- string class is immutable and stringBuilder class objects are mutable
+	-- string class resides in System namespace while stringBuilder resides in System.Text namespace

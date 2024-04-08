@@ -1,0 +1,10 @@
+﻿In this part we learnt about:
+	-- how we make parameters optional
+	-- there are 4 ways to do so:
+		1-- use parameters arrays
+		2-- method overloading
+		3-- specify parameters default
+		4-- use optionalAttribute that is present in System.Runtime.InteropServices namespace
+
+	-- In this video we learnt about "Use parameters arrays"
+	-- parameter arrays should be the last parameter in the parameters list

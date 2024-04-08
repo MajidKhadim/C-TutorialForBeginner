@@ -1,0 +1,6 @@
+﻿In this part we learnt about:
+	-- creating indexers
+	-- indexer are created using this keyword like properties
+	-- public string this[int id]{get;set;}
+	-- when we use them we can access instances of  a class like arrays just like arrays can be accessed using indexes;
+	-- indexers can also be overloaded
