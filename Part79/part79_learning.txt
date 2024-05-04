@@ -1,0 +1,6 @@
+﻿In this part we learnt about:
+	-- we learnt about how to sort a list using delegates
+	-- we first created a static private method
+	-- then we used it to sort the list
+	-- then we used simple delegate keyword 
+	-- then we learnt about lambda expression to sort

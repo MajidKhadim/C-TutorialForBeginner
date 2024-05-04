@@ -1,0 +1,7 @@
+﻿In this part we learnt about:
+	-- TrueForAll method
+	-- AsReadOnly method
+	-- when we make some list as ReadOnly we cant add or remove or replace item in this list
+	-- we only have get accessor
+	-- we also learnt about the trimexcess() method
+

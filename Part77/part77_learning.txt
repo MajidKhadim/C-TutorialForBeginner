@@ -1,0 +1,5 @@
+﻿In this part we learnt about:
+	-- we learnt about sort method
+	-- we learnt about reverse method
+	-- when we apply sort method on alphabets the alphabets get sorted by alphabetically sorted
+	-- we can sort alphabets and numbers because they have implemented the IComparable interface having CompareTo method

@@ -1,0 +1,10 @@
+﻿In this part we learnt about:
+	-- all range functions work with collections like lists
+	-- we learnt about the AddRange method
+	-- we learnt about the GetRange method
+	-- we learnt about the insertRange method
+	-- we learnt about the remove function
+	-- we learnt about the removeAt function
+	-- we learnt about the removeAll where we can pass a condition
+	-- we also learnt about the removeRange
+	-- 

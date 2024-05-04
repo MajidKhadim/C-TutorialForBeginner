@@ -1,0 +1,5 @@
+﻿In this part we learnt about:
+	-- we will inherit it from IComparable interface
+	-- then we will implement its CompareTo method for sorting logic
+	-- we also learnt about the IComparer interface
+	-- 
