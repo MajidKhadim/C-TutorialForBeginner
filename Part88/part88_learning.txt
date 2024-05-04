@@ -1,0 +1,3 @@
+﻿In this part we learnt about:
+	-- how to write multithreading code
+	-- why we use a delegate to pass to the thread because it needs a starting point to do the work

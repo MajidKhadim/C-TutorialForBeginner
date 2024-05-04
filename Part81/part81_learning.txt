@@ -1,0 +1,5 @@
+﻿In this part we learnt about:
+	-- what are the difference between dictionary and list
+	-- where we should use dictionary and where we should use lists
+	-- when we are looking for a value in a collection like list it will loop through each item in the list so it is not efficient so we will use dictionaary and its its kwy
+

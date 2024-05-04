@@ -1,0 +1,4 @@
+﻿In this part we learnt about:
+	-- how we can pass data to the Thread function in a type safe manner
+	-- encapsulte the thread function and the data it needs in a helper class
+	-- lets see the code

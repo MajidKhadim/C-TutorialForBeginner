@@ -1,0 +1,5 @@
+﻿In this part we learnt about:
+	-- Thread.IsAlive
+		this function returns a boolean if the function is under working or not
+	-- Thread.Join 
+		this function will make the main thread to wait for this thread function completes

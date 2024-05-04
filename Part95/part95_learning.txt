@@ -1,0 +1,3 @@
+﻿In this part we learnt about:
+	-- When one thread is doing a task and wants the resources of thread2
+	and thread2 also doing a task and wants the resources of thread then it will create a deadlock

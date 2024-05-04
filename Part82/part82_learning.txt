@@ -1,0 +1,7 @@
+﻿In this part we learnt about:
+	-- Queue Class
+	-- it works on the principle of FIFO
+	-- we learnt about the its methods like Enqueue and Dequeue
+	-- we also learnt about Count property
+	-- we can also use Peek method to check the first item or beginning item of the queue without removing it
+	-- Contains method returns true or false based on the containing condition

@@ -1,0 +1,10 @@
+﻿in this part we learnt about:
+	-- Advantages:
+		-- to main main responsive user interface
+		-- to make efficient use of processor time
+		-- to split large CPU bound to be processed simultaneously
+
+	-- Disadvantages
+		-- On a single core machine threading can affect performance
+		-- have to write more lines of code
+		-- multithreading applications are difficult to write,understand and debug

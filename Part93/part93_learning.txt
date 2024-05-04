@@ -1,0 +1,2 @@
+﻿In this part we learnt about:
+	-- we have to share resources as total was being shared by every thread so everyone was changing it

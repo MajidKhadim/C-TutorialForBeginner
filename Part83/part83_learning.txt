@@ -1,0 +1,9 @@
+﻿In this part we learnt about:
+	-- Stack 
+	-- they work on the condition of LIFO
+	-- we also learnt about few methods
+	-- Push 
+	-- pop
+	-- Count property
+	-- Peek
+	-- difference between Pop and Peek

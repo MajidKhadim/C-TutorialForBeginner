@@ -1,0 +1,6 @@
+﻿In this part we learnt about:
+	-- What is a Process:
+		Process is what the operation system used to facilitate the execution of a program by providing the recources required.Each process have unique id.
+	-- What is a Thread
+		Thread is a light weight process.A process has at least one thread which is commonly called as main thread which actually executes the application code.A single process can have multiple threads
+	-- we can create a thread to use different task and main thread remains free to do work
